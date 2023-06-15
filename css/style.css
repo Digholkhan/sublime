@@ -1,0 +1,275 @@
+
+/* nav-top */
+.nav-top {
+	background: #F0F5FB !important;
+}
+.nav-top ul li a {
+	color: #8090BC !important;
+	text-transform: capitalize;
+	font-size: 14px;
+	font-weight: 600;
+	padding: 10px 15px !important;
+	border-radius: 5px;
+}
+.nav-top ul li a:hover{
+   background: #000;
+}
+
+.navbar-light .navbar-toggler {
+	color: #32353d !important;
+}
+.navbar-nav {
+	margin: auto;
+}
+/* menu */
+
+.nav-main ul li a {
+	color: #8090BC !important;
+	text-transform: capitalize;
+	font-size: 14px;
+	font-weight: 600;
+    padding: 10px 15px !important;
+	border-radius: 5px;
+}
+.nav-main ul li a:hover{
+    background: #000;
+ }
+.btn-contact {
+	background: #4732D7;
+	color: #fff;
+	font-weight: 600;
+	border-radius: 50px;
+	width: 130px;
+	margin-left: 15px;
+}
+/* banner */
+.banner {
+    background-image: url('../img/digital-agency-website-designs-in-2018.png');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.banner-text {
+	text-align: center;
+	margin-top: 140px;
+}
+.banner-text h1 {
+	color: #fff;
+	font-weight: bold;
+	font-size: 50px;
+}
+.banner-text p {
+	color: #fff;
+}
+.btn-start {
+	border-radius: 50px;
+	width: 150px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #4732D7;
+}
+.btn-play {
+	background: #fff;
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	padding: 10px;
+    color: #4732D7;
+    box-shadow: 0 0 0 .25rem rgba(211,212,213,.5);
+    
+}
+/* brand */
+.brand h1,h2,h3,h4,h5,h6{
+	color: #1F1E66;
+	font-weight: bold;
+}
+.brand p {
+	color: #6476A0;
+}
+.brand-heading {
+	text-align: center;
+	margin-top: 60px;
+}
+.dot {
+	height: 5px;
+	width: 5px;
+	background-color: #4732D7;
+	border-radius: 50%;
+	display: inline-block;
+}
+.overlay img {
+	height: 220px;
+	border-radius: 10px;
+}
+#box1{
+	margin: 50px 110px 0px 0px;float: right;
+}
+#box2{
+	height: 256px;margin: 180px 0px 0px 126px;position: absolute;
+}
+#box3{
+	margin: 318px 0px 0px 264px; position: absolute
+}
+.service {
+	margin: 60px 0px 0px -50px;
+}
+.service p{
+	text-align: justify;
+}
+.btn-service{
+	background: #4732D7;
+	color: #fff;
+	font-weight: 600;
+	border-radius: 50px;
+	width: 150px;
+}
+.boxes {
+	height: 300px;
+	width: 250px;
+	padding: 30px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.boxes.b1:hover {
+	box-shadow: 5px 15px 25px #FDE7D3;
+	transform: scale(1.06);
+	transition: .4s ease-in-out;
+}
+.boxes.b2:hover {
+	box-shadow: 5px 15px 25px #FADEEA;
+	transform: scale(1.06);
+	transition: .4s ease-in-out;
+}
+.boxes.b3:hover {
+	box-shadow: 5px 15px 25px #E7F9CB;
+	transform: scale(1.06);
+	transition: .4s ease-in-out;
+}
+.boxes.b4:hover {
+	box-shadow: 5px 15px 25px #CFE3FC;
+	transform: scale(1.06);
+	transition: .4s ease-in-out;
+}
+.icon {
+	font-size: 50px;
+	padding-bottom: 20px;
+}
+/* discover-section */
+.col-md-6.discover-now {
+	padding: 60px;
+}
+.discover{
+	background: #F0F5FB;
+}
+
+.checked {
+	color: orange;
+}
+.ratings {
+	float: left;
+	width: 160px;
+}
+.ratings h3 {
+	color: #4732D7;
+}
+/* <!-- helping-brands --> */
+
+.wrapper img, .wrapper1 img {
+	width: 100%;
+	margin: 20px 0px;
+	border-radius: 15px;
+}
+.wrapper1 {
+	margin-top: -175px;
+}
+/* lets-talk */
+.lets-talk {
+	background: #F4F6F5;
+}
+/* start-up */
+.fas.fa-check {
+	color: #4732D7;
+}
+.wraper {
+	text-align: center;
+	border: 1px solid #f0eded;
+	padding: 40px;
+	width: 300px;
+	border-radius: 15px;
+}
+.wraper:hover {
+	box-shadow: 5px 15px 18px rgba(0, 4, 249, 0.25);
+	transform: scale(1.05);
+	transition: .4s ease-in-out;
+}
+.wraper hr {
+	background: #aaa;
+}
+/* client-review */
+
+.client-review {
+	background: #F0F5FB;
+}
+.clint-box {
+	background: #fff;
+	padding: 40px;
+	padding-bottom: 20px;
+	border-radius: 15px;
+}
+.clint-box img {
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+}
+.clint-box:hover {
+	box-shadow: 0px 15px 25px rgba(0, 65, 255, 0.25);
+	transform: scale(1.06);
+	transition: .5s ease-in-out;
+}
+/* email */
+.from-edit {
+	background: #F0F5FB;
+	border-radius: 30px;
+	border: none;
+	padding: 8px 18px;
+	outline: none;
+	width: 33% !important;
+}
+.from-edit:hover {
+	box-shadow: 0px 1px 5px 2px #4732D7;
+	/* box-shadow: 0 0 0 .25rem rgba(22, 34, 225, 0.5); */
+	transition: .2s;
+}
+/* footer */
+.footer h6,p{
+	color: #FFF;
+}
+.footer {
+	background: #121332;
+}
+.footer a:hover{
+	color:#fff
+}
+.sublime ul li {
+	float: left !important;
+	list-style: none;
+	padding-right: 20px;
+}
+.sublime ul li a {
+	color: #8090BC;
+}
+.about ul li {
+	list-style: none;
+	padding: 10px 0px;
+}
+.about ul li a {
+	color: #8090BC;
+	font-weight: 600;
+	text-decoration: none;
+}
+.footer hr {
+	background: #fff;
+	margin-top: 50px;
+}
